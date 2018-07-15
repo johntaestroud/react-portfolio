@@ -7,7 +7,7 @@ class Home extends Component {
             <div style={{ width: '100%', margin: 'auto'}}>
                 <Grid className="home-grid">
                   <Cell col={12}>
-                    <img src="" alt="" className="profile-img"/>
+                    {/* <img src="" alt="" className="profile-img"/> */}
                     <div className="title-text">
                         <h1>Software Developer</h1>
                         <hr/>
